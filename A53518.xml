@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Sermon preached in an Anabaptist meeting in Wapping, on Sunday the 19th of February by the reverend T.O., D.D. upon this text, Heb. Ch. XI, v. 1, Faith is the evidence of things not seen.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53518</idno>
+            <idno type="STC">Wing O55</idno>
+            <idno type="STC">ESTC R16261</idno>
+            <idno type="EEBO-CITATION">13617894</idno>
+            <idno type="OCLC">ocm 13617894</idno>
+            <idno type="VID">100794</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100794)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 797:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Sermon preached in an Anabaptist meeting in Wapping, on Sunday the 19th of February by the reverend T.O., D.D. upon this text, Heb. Ch. XI, v. 1, Faith is the evidence of things not seen.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>For Zachariah Marshall near the long cellar in Wapping,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire against Titus Oates in the form of an imaginary sermon by Oates.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Popish Plot, 1678 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100794:1"/>
+            <pb facs="tcp:100794:1"/>
+            <p>A SERMON Preached in an <hi>Anabaptiſt Meeting</hi> IN WAPPING, On <hi>SUNDAY</hi> the 19th. of <hi>February,</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of man in pillory</figDesc>
+            </figure>
+            <p>Printed, at the requeſt of his Congregation, for <hi>Zachariah Marſhal</hi> near the <hi>Long-Cellar</hi> in <hi>Wapping.</hi> 1699. Price 3 <hi>
+                  <abbr>d.</abbr>
+               </hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:100794:2"/>
+            <pb n="1" facs="tcp:100794:2"/>
+            <head>
+               <hi>HEB.</hi> Chap. <hi>XI.</hi> Part of the 1ſt. verſe. Faith is the <hi>Evidence</hi> of things not ſeen.</head>
+            <opener>
+               <salute>Dearly Beloved,</salute>
+            </opener>
+            <p>WHo was the Author of this famous Epiſtle to the <hi>Hebrews,</hi> whether St. <hi>Paul,</hi> as <hi>Cornelius à Lapide</hi> and his Diſci<g ref="char:EOLhyphen"/>ple St. <hi>Jerome</hi> would have it, or whether it was writ<g ref="char:EOLhyphen"/>ten by ſome other converted <hi>Jew,</hi> which was the opinion of <hi>Alexander ab Alexandro</hi> and ſome other <hi>Lutheran</hi> Divines that oppoſed the proceedings of the Council of <hi>Constance</hi> in the ſixth Century, it is not material here to determine. For my part I muſt own that St. <hi>Paul</hi> ſeems to have the faireſt title to it, but tho I have <hi>Sworn</hi> to a thouſand bold things in my time, yet I would not ſwear, Beloved, that this Epiſtle was written by the aforeſaid Apoſtle. But leaving this Controverſie where we found it, let us now pro<g ref="char:EOLhyphen"/>ceed to our Text. <hi>Faith is the <hi>Evidence</hi> of things not ſeen.</hi>
+            </p>
+            <p>From which words I draw theſe four Propoſitions,
+<list>
+                  <item>
+                     <hi>Firſt,</hi> That <hi>Faith is an <hi>Evidence.</hi>
+                     </hi>
+                  </item>
+                  <item>Secondly, <hi>If Faith is an <hi>Evidence,</hi> that an <hi>Evidence</hi> conſequently ought to be beleived.</hi>
+                  </item>
+                  <item>Thirdly, <hi>That there are many things talked off in the world, that were never</hi> ſeen.</item>
+                  <item>Fourthly and Laſtly, That <hi>an <hi>Evidence</hi> and through him any Nation, may, nay ought to believe in things</hi> not ſeen.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Firſt,</hi> I ſay then that <hi>Faith is an <hi>Evidence.</hi>
+               </hi> The ſacred Writer of this Epiſtle poſitively aſſerts it, how then dares any man that profeſſes himſelf a Chriſtian, revile, cenſure, and ſpeak contume<g ref="char:EOLhyphen"/>lious things of any <hi>Evidence.</hi> I don't ſpeak this becauſe it was my own Caſe to be one of this number, but becauſe the truth requires
+<pb n="2" facs="tcp:100794:3"/>it, and the truth ought never to be ſtifled. An <hi>Evidence</hi> ought to be reſpected, and his words ſhould in all civilized Nations be re<g ref="char:EOLhyphen"/>ceived for Oracles, for if Faith is an <hi>Evidence</hi> why then may not we be <hi>ſaved</hi> by an <hi>Evidence</hi> as well as by Faith? I believe, my Belov<g ref="char:EOLhyphen"/>ed you remember the time when I was the top <hi>Evidence</hi> in the horrid Popiſh Plot, but if you don't, I do. When ever I came to <hi>Weſtminſter-Hall,</hi> or to the <hi>Old Baily,</hi> or to any well-affected Coffee<g ref="char:EOLhyphen"/>houſe in the City, the people ran in ſhoals to view my perſon, and made a lane for me as I paſſed along. One cry'd make room for the King's <hi>Evidence</hi> there. How, ſays his Neighbour, is the Gen<g ref="char:EOLhyphen"/>tleman there with his mouth in the middle of his face, he that ſav'd our Wives and Daughters from being raviſhed by the Man of Sin. Thus was I reſpected, and admired by all. Truly I may ſay it without vanity, that little <hi>England,</hi> never ſince it was little <hi>Eng<g ref="char:EOLhyphen"/>land</hi> had ſo much Faith, as when the Lord made me his unwor<g ref="char:EOLhyphen"/>thy inſtrument to broach the Popiſh Plot at both ends. The Na<g ref="char:EOLhyphen"/>tion believ'd my <hi>Salamanca</hi> degree, and the <hi>White-horſe</hi> Conſult, they believed my Forty thouſand <hi>Pilgrims</hi> with black Bills, and Father <hi>Ireland</hi>'s forty thouſand Maſſes. In ſhort they in effect believed, when I ſaid the words, that Chalk was Cheeſe, and that Cheeſe was Chalk. Theſe were bleſſed times, now my Beloved, for an <hi>Evidence</hi> to live in. And accordingly then it proſper'd with the Nation for their ex<g ref="char:EOLhyphen"/>traordinary Faith. We hanged up ſcores of Idolatrous Prieſts, and ſent their Biſhops to Graſs; we ſeized their Collars of Brawn for concealed Jeſuits, and their Silver Tankards, and Gold Watches for Popiſh relicks. In ſhort we made the Whore of <hi>Babylon</hi> take down her ſign, ſo that the Proteſtant Religion flouriſhed exceeding<g ref="char:EOLhyphen"/>ly. But when the Nation began once to be poſſeſt with the Spirit of Infidelity, and my <hi>Evidence</hi> was not received as formerly, ob<g ref="char:EOLhyphen"/>ſerve then my Beloved how the Lord powr'd the vial of his indig<g ref="char:EOLhyphen"/>nation upon theſe ſinful people. Popery came upon us like an ar<g ref="char:EOLhyphen"/>med man, and Superſtition over-ran our Paſtures like a Flood. <hi>Mag<g ref="char:EOLhyphen"/>dalen</hi>-College was diſparked and laid out to the Common; the Boys of St. <hi>Omers</hi> bearded us in <hi>Weſtminster-Hall,</hi> we had four Popiſh Biſhips like the four winds blowing from the four corners of the Map.
+<pb n="3" facs="tcp:100794:3"/>The Monks walked publickly in their Habits; and Carted Bawds had the impudence to ſet up for Converts. This in ſhort was the condition of our Affairs, when my <hi>Evidence</hi> was rejected, and my Teſtimony turn'd out of doors. Thus I have made it plain that <hi>Faith is an <hi>Evidence.</hi>
+               </hi>
+            </p>
+            <p>I come now to the Second point, <hi>If faith then is an <hi>Evidence,</hi> it follows conſequently that an <hi>Evidence</hi> ought to be believed.</hi> The <hi>Talmud</hi> obſerves that the <hi>Prophets</hi> in the old Teſtament were called <hi>Evidences</hi> and it was a proper title, for they confirmed their meſſages with an Oath. <hi>As my Soul</hi> liveth ſaith <hi>Nathan</hi> to <hi>David</hi> in <hi>Samuel,</hi> to in<g ref="char:EOLhyphen"/>ſtance in no more. Is it not plain and manifeſt therefore, that an <hi>Evidence</hi> is to be believed? Moreover, as it is ſaid, that <hi>no man is a Prophet is his own Country,</hi> may it not (ſuch is the incredulity of this Apoſtate age) be applied to the <hi>
+                  <hi>Evidences,</hi> viz.</hi> that no man is an <hi>Evidence</hi> in his own Country. As I told you before, Bre<g ref="char:EOLhyphen"/>thren, my <hi>Evidence</hi> was received at firſt, and how? why Unver<g ref="char:EOLhyphen"/>ſally, by King, Lords and Commons. I had my Guard of Beef<g ref="char:EOLhyphen"/>eaters to protect me from being inſulted or aſſaſſinated, my ten pound <hi>per</hi> Week duly paid without deductions, Veniſon Paſties and Weſtphalia-Hams flew to my Table without ſending for, I was as much ſtared at, at the <hi>Amſterdam-Coffee-houſe</hi> and at <hi>Dick</hi>'s, as a Fo<g ref="char:EOLhyphen"/>reign Ambaſſador, when he makes his entry through <hi>Fleetſtreet.</hi> But when an Unbelieving Generation of Scoffers ſtrated up, of whom the <hi>Obſerv<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tor</hi> was the Ring-leader, and began to examine my Narrative with the Carnal Eye of Reaſon; when they were ſo malicious and ill natured as to lay aſide their Faith, and to enquire after the cre<g ref="char:EOLhyphen"/>dibility of the things by me depoſed; when they impudently aſſer<g ref="char:EOLhyphen"/>ted that my Plot would not hold water, and that there were ſeveral irreconcileable contradictions in my Book never to be ſolved, then theſe Sons of <hi>Amaleck</hi> neglected me their Deliverer and Saviour, who like <hi>Samſon</hi> ſlew their Enemies with the Jawbone of an Aſs. It fell out unluckily for me, I muſt own that I ſwore Circumciſion, a thing that may eaſily be diſcovered, upon the Miniſter of <hi>Duke</hi>'s place. My forty thouſand <hi>Spanish</hi> Pilgrims were improbable Devils with a witneſs, for who the plague could bring ſo many of 'em to<g ref="char:EOLhyphen"/>gether? however, though they looked ſo fooliſh and ridiculous,
+<pb n="4" facs="tcp:100794:4"/>who could diſprove them? whereas to ſwear circumciſion againſt a man, unleſs the caſe had been certainly ſo, was the greateſt folly in the Univerſe, and if ever I repent, I ſhall put it among my Re<g ref="char:EOLhyphen"/>tractations. Every Midwife or Matron, nay, in this knowing age a raw Girl of Thirteen can tell whether ſuch an allegation be true, but I may thank the Devil, or if the Devil and a certain Noble perſon may be put together without a <hi>Scandalum Magnatum,</hi> I may thank a certain Lord too for bringing me into this misfortune, who makes good the Proverb, that all miſchief comes out of the <hi>North.</hi> Thus as I ſaid before, the Devil or a certain Lord ow'd me a Spite, and as <hi>in Adam of Paradiſe all fell,</hi> ſo I particularly fell in <hi>Adam</hi> of <hi>Duke's Place,</hi> but if I could have ſeen two yards before me, I had never meddled with that <hi>one eye'd Philiſtian,</hi> for he prov'd the firſt ſtep to my ruine. Therefore I wou'd adviſe you, my beloved, when you are reſolved to give a man a civil lift out of this tranſitory World, that you wou'd have more diſcretion than to ſwear Circumciſion, or any ſuch palpable matter againſt him, becauſe a Jury may ſoon know whether your Teſtimony be true; but let your <hi>Evidence</hi> relate <hi>to things not</hi> Seen, as Treaſonable words, and Treaſonable Diſcourſes, and if you ſtand Buff to ſuch a Charge, 'twill be impoſſible to convict you of falſity. It was the ſaying of a great Politician, that as eve<g ref="char:EOLhyphen"/>ry man was not fit to Swear, ſo every thing was not fit to be ſworn: For an <hi>Evidence,</hi> if he hopes to thrive upon his Trade, ought to have ſeveral qualifications. <hi>Imprimis,</hi> he ought to have a <hi>Corinthi<g ref="char:EOLhyphen"/>an fore-head,</hi> for ſince he muſt expect to meet abundance of Enemies in the world, 'tis requiſite he ſhould be armed accordingly to fence againſt them. 'Tis a common ſaying that Diamonds cut Diamonds, why then ſhould not Braſs be repelled by Braſs? Secondly, he ought to have a <hi>never-failing memory,</hi> for Beloved, 'tis the Devil upon two ſticks for an <hi>Evidence</hi> to be caught in two different ſto<g ref="char:EOLhyphen"/>ries; but in caſe of a defect here, <hi>Thirdly,</hi> he ought to have a <hi>never-failing invention</hi> to bring him off of the hooks again, when his me<g ref="char:EOLhyphen"/>mory leaves him the lurch. This was once my own caſe, Brethren. I was asked at the Council whether I knew <hi>Coleman</hi> or no. To which I replied in the affirmative. Soon after a Gentleman was brought into the room, and they asked me whether I had ever
+<pb n="5" facs="tcp:100794:4"/>ſeen him before. No ſaid I, he's an abſolute ſtranger to me. Why ſays one of the Counſellors, this is Mr. <hi>Coleman.</hi> 'Tis even ſo re<g ref="char:EOLhyphen"/>plied I, but that confounded Candle there glared ſo in my face that it made me miſtake; and beſides, the Gentleman has a White Wigg on now, whereas he wore a Black one when I was with him, and that occaſioned me to falter a little. <hi>Fourthly,</hi> an <hi>Evidence</hi> ought to be Maſter of an <hi>inſuperable obſtinacy,</hi> otherwiſe I wou'd not give a braſs Farthing for him. My Brother <hi>Bedloe,</hi> who now is in the boſom of the two <hi>Elders,</hi> that ſwore againſt <hi>Suſannah,</hi> was a Heroe in this particular. He confirmed upon his Death-bed all that he had ſworn to, and pawned his Salvation upon the truth of it. In ſhort, he died as hard as a brick-bat, whereas that puny Milk<g ref="char:EOLhyphen"/>ſop <hi>Prance,</hi> ſwore back-ſtroke and fore-ſtroke about the <hi>Antipendi<g ref="char:EOLhyphen"/>ums</hi> and <hi>Silver-ſcrues,</hi> about the Murder of Sir <hi>Edmunbury Godfry, &amp;c.</hi> and owned himſelf by his own voluntary Confeſſion to be a damn'd relenting Villain, and was rewarded accordingly; that is to ſay, he was rejected by the Party whom he ſwore againſt, as likewiſe by thoſe he was converted to. In ſhort, my Beloved, if a man cannot attain to theſe four qualifications, he had as good cry <hi>Matches</hi> and <hi>Brooms</hi> about the ſtreet, or ſet up for a <hi>Chimny-ſweaper,</hi> as well as pretend to be an <hi>Evidence.</hi> So much by way of digreſſion. To return now to the buſineſs in hand, I come next to prove.</p>
+            <p>
+               <hi>Thirdly,</hi> That <hi>there are many things talked of in the world, that were never ſeen.</hi> Upon this Head, were I minded to launch out into my Metaphiſics, which I learned at <hi>Salamanca,</hi> I ſhou'd carry the Con<g ref="char:EOLhyphen"/>troverſie ſo far out your reach, that you wou'd ſoon looſe it, but to condeſcend to your weak capacities, you may be pleaſed to obſerve that all things may be divided into the following Branches. Firſt, <hi>ſomethings may be heard that cannot be</hi> Seen, as an Eccho. We hear the reflexion of the ſound, but don't ſee it. We hear likewiſe of honeſt Courtiers, and honeſt Church-men, but they were never ſeen on this ſide of the Globe. I am ſure the man that wou'd ſwear he ever ſaw any ſuch Monſter, will <hi>ſwear</hi> to more than I dare, tho I perhaps I have <hi>ſworn</hi> more than any man in <hi>Europe.</hi> Secondly, <hi>ſome things may be ſeen,</hi> that <hi>cannot be heard,</hi> as dumb a Woman, but Beloved, I muſt tell you, by the by, that a dumb Woman is next too
+<pb n="6" facs="tcp:100794:5"/>a Miracle. I cou'd never meet with a Woman yet in all my Travels but had more tongue than I thought came to her ſhare. Thirdly, <hi>ſome things may be both ſeen and heard,</hi> as a Scolding Wife. Heaven grant that we have not too many of that ſort in this righteous Congregati<g ref="char:EOLhyphen"/>on. Laſtly, <hi>ſomethings are neither to be ſeen nor heard,</hi> as for inſtance, the Muſic of the Spheres, and to go no farther, my forty thouſand <hi>Spanish Pilgrims</hi> with their black Bills. Having as I take it ſuffi<g ref="char:EOLhyphen"/>ciently cleared this point, I now proceed to make out my laſt Propo<g ref="char:EOLhyphen"/>ſition, which was,</p>
+            <p>Fourthly, That <hi>an</hi> Evidence, <hi>and through him any Nation may, nay, ought to believe in things not</hi> Seen. There are ſome perſons in the world ſo extremely difficult and hard to pleaſe, that they will believe nothing, but what falls under the cognizance of their ſenſes. A true <hi>Cheapſide</hi>-Husband will never believe that his Wife has cor<g ref="char:EOLhyphen"/>nuted his Fore-head, unleſs he finds her and the Gallant in bed to<g ref="char:EOLhyphen"/>gether. My Father <hi>Smuel O—es</hi> the Weaver, (and what mortal man is exempt from humane frailties) was of this Kidney, as it appears by a ſtory of him in <hi>Edward</hi>'s <hi>Gangrena,</hi> and was for ſeeing, and not believing. He was Spiritual director to ſome Godly Wo<g ref="char:EOLhyphen"/>men, and carried them to the River near <hi>Chelmsford,</hi> to ſee them waſh off original Sin, and be Baptiſed. One of the Company, who was more ſhamefac'd than the reſt of the Siſterhood, after ſhe had undreſſed her ſelf to go and waſh, laid both her hands upon her Nu<g ref="char:EOLhyphen"/>dities to cover them, one hand it ſeems not being large enough to do it: But my Father <hi>Sam,</hi> who was reſolved to <hi>ſee</hi> all or nothing, as you will find in the aforeſaid Book, made her take off her unrigh<g ref="char:EOLhyphen"/>teous hands, and when that was done, he went on with the Cere<g ref="char:EOLhyphen"/>mony. This, I ſay, is the Caſe of moſt men; they will truſt their Faith no farther than they can ſee it: but I wou'd fain know whether an <hi>Evidence</hi> is beholding to a Nation, if they will believe no more of his Narative, than what they have ſeen with their Eyes. A true <hi>Evidence</hi> will trump up ſeveral things that were never ſeen, and it may be, that were never heard of, and if they have a mind to be ſaved by him, they muſt depend upon his veracity, and ask no more queſtions. But, Alas! this is a very ungrateful World we have to deal with, ſo that if it were not for the private ſatisfaction
+<pb n="7" facs="tcp:100794:5"/>which every good <hi>Evidence</hi> feels within his own breaſt for doing a National Service, he would much ſooner take up with the ſcur<g ref="char:EOLhyphen"/>vy employment of a Hog-driver. For, is it not a ſad thing, dearly Beloved, that where a man generouſly offers to hang half for a King<g ref="char:EOLhyphen"/>dom, and conſequently to eaſe it of a World of troubleſo me fel<g ref="char:EOLhyphen"/>lows, that are a burden to it, he ſhou'd be brow beaten by a ſawcy Judge, or croſs-examined by any of your impertinent Counſellors that will have an Oar in every man's Boat, and at laſt, for twelve illiterate Raskals, call'd the Jury, to bring in the Bill <hi>Ignoramus</hi> for<g ref="char:EOLhyphen"/>ſooth, after a man has been at the expence of contriving and tack<g ref="char:EOLhyphen"/>ing together a plauſible ſtory, and perhaps ſwore till he is black in the Face? I wou'd have hanged Sir <hi>George Wakeman,</hi> and the <hi>Popiſh Lords,</hi> and <hi>Parſon Eliot,</hi> and a thouſand more that I cannot think of at preſent: But the Government I thank them, were ſuch fools as to obſtruct my deſigns. For my part, I did all that lay in the po<g ref="char:EOLhyphen"/>wer of an <hi>Evidence</hi> to do, but ſome perſon that ſhall be nameleſs, wou'd not let me go through ſtitch with my work, and therefore if Popery is not ruined, root and branch, they have none to blame but themſelves. They would not reverſe my Sentence when it might have been for the common advantage, and when my Friends ſoli<g ref="char:EOLhyphen"/>cited it: So now I don't care a groat if it continues on till to the end of the Chapter, for tho' perhaps I may not meet with my <hi>due reward</hi> in <hi>this</hi> World, yet thoſe that throughly know me, ſay, I ſhall cer<g ref="char:EOLhyphen"/>tainly find it in the next.</p>
+            <p>Having, I preſume, cleared theſe four points to your ſatisfacti<g ref="char:EOLhyphen"/>on, give me leave to ſay a word to ſome Objections that may be rai<g ref="char:EOLhyphen"/>ſed, either againſt the Truth of my Evidencing, or the freedom of my Language, in calling a Spade a Spade: Or, Laſtly, againſt my leaving the Church of <hi>England,</hi> whereof I have profeſſed my ſelf to be a Member ſeveral years, to return to the Religion of my Fore<g ref="char:EOLhyphen"/>fathers, and joyn my ſelf with the Brethren of the Anabaptiſt per<g ref="char:EOLhyphen"/>ſwaſion.</p>
+            <p>
+               <hi>Object. the Firſt.</hi> If, Doctor, your <hi>Evidence</hi> was true? ſay theſe Gentlemen, how came it about then, that among ſo many Prieſts and Papiſts of all ſorts that you hanged, not one of them ſhould own the Crime for which he was brought to the Gallows? but make a per<g ref="char:EOLhyphen"/>pendicular
+<pb n="8" facs="tcp:100794:6"/>leap to Hell with a lie in his mouth: whereas, ſay they, in <hi>George P—r</hi>'s Plot, all of them had the Grace to confeſs the fact for which they died.</p>
+            <p>To this I anſwer. Firſt, It is plain from <hi>Suarez, Eſcobar,</hi> and the whole Herd of their Caſuiſts, that a Roman Catholick may equivocate and perjure himſelf for the good of the Church. This I take to be ſo notorious a truth that I defie any Raskal of a Jeſuit to deny it. But People will reply, If this is the ſtanding Doctrine of that Communion, how came <hi>Charnock</hi> and <hi>Rookwood</hi> to be with<g ref="char:EOLhyphen"/>out it? or why ſhould they ſqueak any more than their Predeceſ<g ref="char:EOLhyphen"/>ſors. Therefore I affirm, Secondly, That the ſeaſons have been ſo confuſed an ddiſturbed, and jumbled ever ſince the late Earth-quake, that as that great <hi>Philoſopher</hi> Mr. <hi>Flamſted</hi> believes, perhaps the Axis of the Earth is not where it formerly ſtood. So then, if ſo ſolid a body as the Earth has been removed from its center, what wonder is it if the Church, which is compoſed of weak, wavering, uncertain men, has likewiſe varied a little from its principles. I could have wiſhed indeed, that all, or at leaſt ſome of my Raskals had done the ſame as Captain <hi>P—r</hi>'s Rogues have done, for it might have ſerved to corroborate my <hi>Evidence:</hi> however, its my com<g ref="char:EOLhyphen"/>fort that the Nation believed me without it, and as we find it in the Text, <hi>Faith is the <hi>Evidence</hi> of things not ſeen.</hi>
+            </p>
+            <p>
+               <hi>Object. the Second.</hi> But, Doctor, if you are a ſincere Chriſtian, ſay they, why then don't you take more care to clap a Padlock up<g ref="char:EOLhyphen"/>on that unruly member your Tongue? Why do you call Rogues and Raskals ſo plentifully, ſince the Goſpel tells us, that the man that u<g ref="char:EOLhyphen"/>ſes this Pagan Language, even to his Enemies, will be troubled for't hereafter?</p>
+            <p>The anſwer to this is eaſie and plain. We muſt ſo interpret Scrip<g ref="char:EOLhyphen"/>ture, as not to make one part of it claſh with another. Now we are poſitively commanded in ſeveral places to ſpeak the truth of all perſons, ſo that if a great man at Court, or a Prelate in the Church happen to be Raskals, pray whoſe fault is it to give them their true titles? My Father <hi>Samuel</hi> was an honeſt Weaver, and his Son <hi>Titus</hi> here will be Crucified over and over before he will turn the De<g ref="char:EOLhyphen"/>vil's Upholſterer, and ſow Cuſhions to the Elbows of iniquity, tho'
+<pb n="9" facs="tcp:100794:6"/>it wears a Star and Garter. Beſides, when this Precept of not cal<g ref="char:EOLhyphen"/>ling our Brother Fool, and ſo forth, was given, the Church was but in it's Cradle or Infancy, and if it had any Rogues, they were but little diminitive ones, whereas the Church is now grown to Wo<g ref="char:EOLhyphen"/>man's Eſtate, and conſequently many of its Children have arriv'd to their full Stature in Raskality, and this I take to be the Caſe.</p>
+            <p>The third, and, as they imagine, the moſt terrible Objection is ſtill behind. For, Doctor, ſay theſe Gentlemen, pray do us the fa<g ref="char:EOLhyphen"/>vour to tell us what Church you belong to, that we may know where to find you. Firſt you were a plain Primitive Proteſtant of the Ana<g ref="char:EOLhyphen"/>baptiſt Cut. Then you faced about to the Religion then in faſhion, went to the Univerſity, and took Orders in the Church of <hi>England.</hi> After that, you made a Trip to St. <hi>Omers</hi> and <hi>Salamanca,</hi> ſwallow<g ref="char:EOLhyphen"/>ed the Euchariſt as glibly as your Father did the <hi>Scotch</hi> Covenant, and were a moſt zealous Papiſt. This wou'd not ſatisfie your turn, but in a few years, you veer'd about to the old Point, and hang<g ref="char:EOLhyphen"/>ed all the Prieſts and Jeſuits that came in your way. Then you ſhowed a ſtrange warbling in your Guts to be a Presbyterian. Now at laſt you herd among the Anabaptiſts on <hi>Sundays,</hi> but all the week wear the ungodly Livery of the Eſtabliſh'd Church: So that, ſay they, you are a perfect riddle and myſtery to us, <hi>and the Devil only can tell where to have you.</hi>
+            </p>
+            <p>To this heavy charge I reply, that ever ſince I knew my right hand from my left, I carefully obſerved the Golden Rule of being ill to all men, that I might gain ſome—mony. As for my going to St. <hi>Omers,</hi> and pretending to be a Proſelyte to their Church, 'twas a meer trick of Youth, and no more, I only did it with a deſign to fa<g ref="char:EOLhyphen"/>thom their dark Intregues, and if poſſible to break the neck of them, which I think I perfectly perform'd, for I truſs'd up their Prieſts by dozens. In conſideration of theſe Services, the Nation gave me a title not inferiour to that of the greateſt Heroes, and call<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d me their Savi<g ref="char:EOLhyphen"/>our, and Deliverer. If Papiſts will equivocate with us Proteſtants, why ſhould not we Proteſtants turn their equivocating Canon upon them, and maul them with their own Arms. <hi>Judith</hi> out off <hi>Holo<g ref="char:EOLhyphen"/>fernes</hi>'s Head, but how? not with her own Sword I trow, becauſe ſhe was a Woman, and wore none, but with <hi>Holofernes</hi>'s own tilter,
+<pb n="10" facs="tcp:100794:7" rendition="simple:additions"/>and yet we find her commended for it. But then ſay they, if it had been your luck to have trooped off when you lived in an Idolatrous Communion, what had become of you then? Why! perhaps I had been damned, but what of all that? If I had a mind to hazard the go<g ref="char:EOLhyphen"/>ing to the Devil, in order to ſave the Nation, I humbly conceive they ought to thank and not reproach me for it. I am ſure a great Miniſter has ſince done the ſame, and made me the compliment to follow my Copy. To conclude, I have at laſt thought fit my Belo<g ref="char:EOLhyphen"/>ved, to ſettle among you, in obedience to the Apoſtles command, <hi>Try all things, and hold faſt that which is good:</hi> for really I find the men of your perſwaſion are good, and the women are good, and likewiſe your refreſhments and Collations are good, yea exceeding good. In the next place my Father was one of you, and like an obedient Son, I am returned to his way of worſhip, and this nature teaches the very Inſects. Obſerve a Summer fly in <hi>May,</hi> and after he has flown and buzzed about for ſome time, you will find him at laſt by downright inſtinct, as it were ſettle in the original Cowturd, where he was hatched. And be not ſcandalized I be<g ref="char:EOLhyphen"/>ſeech you, that on the week-days I wear the rag of the Church. The malicious world tells a thouſand lies of me, but I value them not. Thus they formerly charged me with the ſin of <hi>Rigbeiſm</hi> (as they now call it) and to ſtop their mouths, I was forced to marry, and yet theſe cenſorious perſons are not ſatisfied with my doing ſo, but ſtill give out that I am for the old Sport, becauſe forſooth, I have ſtruck never a Child ſince out of my Wives Body, not conſide<g ref="char:EOLhyphen"/>ring that I am too Fat and Corpulent for that Drugery. Now if on the week-day I appear in the Canonical equipage, 'tis only done with an intention to diſgrace it. They whipt my ſides for me, and I have no other way to requite them for't, but by wearing their ha<g ref="char:EOLhyphen"/>bit, in order to bring them into Diſgrace and Contempt, which that it may happen to them, let us all Pray, and every one of us lend a hand, to bring about ſo pious a Work.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100794:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
